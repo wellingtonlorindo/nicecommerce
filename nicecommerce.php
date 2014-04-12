@@ -2,11 +2,11 @@
 
 /*
    Plugin Name: NiceCommerce
-   Plugin URI: http://my-awesomeness-emporium.com
+   Plugin URI: http://lorindo.com
    Description: a E-commerce plugin to create a awesome store.
    Version: 1.0
    Author: Wellington Lorindo
-   Author URI: http://lorindo.com
+   Author URI: http://lorindo.com/sobre-wellington-lorindo/
    License: GPL2
 */
   
